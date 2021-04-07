@@ -1,6 +1,6 @@
 ## Oliver Bates
 
-#### About me 
+## About me 
 
 I am junior developer who has recently graduated from Makers Academy. I'm searching for my first role as a developer. 
 
