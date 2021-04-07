@@ -1,18 +1,23 @@
 ## Oliver Bates
-About me
-A budding developer, starting my journey to become a skilled and competent junior developer in the world of Insurtech.
 
-After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. Between leaving my job and now, I have bought and converted a van into a mini-home and travelled around Europe (as much as possible - given the circumstances).  I have since successfully completed the pre-course challenges for makers academy. The renowned, 3-month intensive course begins on January 4th.
+#### About me 
 
-Having worked in a marketplace well-known for its antiquated and out-of-date technologies, I really learned the importance of technology. Automation was an essential skill I taught myself in order to improve accuracies and save time otherwise spent on needless manual tasks. I investigated the growing Insurtech industry and attended several conferences and lectures, coming to the conclusion that tech is something I would like to be a part of to help modernise and improve other industries.
+I am junior developer who has recently graduated from Makers Academy. I'm searching for my first role as a developer. 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. The marketplace is well-known for its antiquated technologies and it was there that I really learned of the importance of appropriate technology. 
+
+Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to thinking of a career change. I investigated the growing Insurtech industry and attended several conferences and lectures. I came to the conclusion that I would like to be a part of the tech industry to help modernise and improve other industries.
+
+For the first 3 months of 2021 I was a student at Makers Academy - the renowned 3 month intensive coding bootcamp. Here I became fully certain that I'd made the right decision to change career. The three months were challenging, exciting and immensely rewarding. I am now looking for a role that allows me to continue my learning as much as possible through complex problem-solving and more exposure to new technologies. 
+
+
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Final project**            | A phone app that gamifies the pedometer to encourage walking. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
