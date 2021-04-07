@@ -17,8 +17,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A phone app that gamifies the pedometer to encourage walking. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project**            | A phone app that gamifies the pedometer to encourage users to reach a step count target. | React Native, Javascript, Expo, Jest |
+| **Spacebook** | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, Javascript, HTML, CSS              |
+| **Bank Account** | A simple solo project to mimic a bank account. | Ruby, RSpec          |
 
 ## Experience
 
