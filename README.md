@@ -17,8 +17,8 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A phone app that gamifies the pedometer to encourage users to reach a step count target. | React Native, Javascript, Expo, Jest |
-| **Spacebook** | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, Javascript, HTML, CSS              |
+| **Final project**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. | React Native, JavaScript, Expo, Jest |
+| **Spacebook** | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS              |
 | **Bank Account** | A simple solo project to mimic a bank account. | Ruby, RSpec          |
 
 ## Experience
@@ -66,14 +66,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### CII Qualifications (August 2016 to present)
-- Dip CII completed; 4 ACII modules completed; final module in progress.
+- Cert CII and Dip CII completed; 4 out of 5 ACII modules completed.
 
 #### University of Bristol (October 2012 to June 2015)
 
 - BEng Engineering Mathematics
 - 2:1
-- Carried out 8 group projects - producing presentations and reports of solutions to real-life engineering problems through data analysis and mathematical modelling.
-- Studied C, C++, MATLAB, HTML, CSS and Java coding languages.
+- Carried out 8 group projects - producing solutions to real-life engineering problems through data analysis and mathematical modelling.
+- Studied C, C++, MATLAB, HTML and CSS.
 
 #### Winchester College Qualifications (September 2006 to June 2011)
 - A levels: Maths (A*), Further Maths (A'*)
@@ -81,12 +81,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - GCSEs: Eight A*s and one A
 - Intermediate Mathematical Olympiad: Won a medal for my score in the Maclaurin round, as one of the top 100 candidates countrywide.
 
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Other Interests, Hobbies & Skills
 
 - Good French, intermediate German and basic Spanish.
-- Cycling/Long-Distance Sports - Have completed various long-distance rides including: London-Paris, Amsterdam-Dunkerque, Bilbao-Barcelona-Le Havre and numerous races. Kayaked the length of the Thames. Competed in the Blenheim Triathlon, the London marathon and Pyongyang half marathon.
+- Cycling/Long-Distance Sports - I've completed various long-distance rides, including: London-Paris, Amsterdam-Dunkerque, Bilbao-Barcelona-Le Havre and numerous races. Kayaked the length of the Thames. Competed in the Blenheim Triathlon, the London marathon and the Pyongyang half marathon.
 - Travel/Adventure - Worked in a hotel in Courchevel for 5 months for the ski season. Volunteered in a Romanian orphanage. Worked in a bar in La Paz. Converted a van into a campervan to travel Europe.
-
-Any cool stuff that makes you a super part of a software development team
