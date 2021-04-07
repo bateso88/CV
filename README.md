@@ -4,7 +4,7 @@ A budding developer, starting my journey to become a skilled and competent junio
 
 After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. Between leaving my job and now, I have bought and converted a van into a mini-home and travelled around Europe (as much as possible - given the circumstances).  I have since successfully completed the pre-course challenges for makers academy. The renowned, 3-month intensive course begins on January 4th.
 
-Having worked in a marketplace well-known for its antiquated and out-of-date technologies, I really learned the importance of technology. Automation was an essential skill I taught myself in order to improve accuracies and save time otherwise spent on needless manual tasks. I investigated the growing Insurtech industry and attended several conferences and lectures, coming to the conclusion that its something I would like participate in to help bring the commercial insurance industry into the 21st century.
+Having worked in a marketplace well-known for its antiquated and out-of-date technologies, I really learned the importance of technology. Automation was an essential skill I taught myself in order to improve accuracies and save time otherwise spent on needless manual tasks. I investigated the growing Insurtech industry and attended several conferences and lectures, coming to the conclusion that tech is something I would like to be a part of to help modernise and improve other industries.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
