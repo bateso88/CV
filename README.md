@@ -15,7 +15,7 @@
 
 ## About me 
 
-I am junior developer who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning as much as possible with complex problem-solving and continued exposure to new technologies. 
+I am junior developer who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning through complex problem-solving and continued exposure to new technologies. 
 
 Previously I worked in insurance, in the Lloyd's of London market for 4 years after studying Engineering Mathematics at Bristol University.
 
@@ -45,7 +45,7 @@ I have always found mathematics comes easily to me. My greatest achievement was 
 
 #### Teamwork 
 
-From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am willing to take initiative and do extra work if I know it will benefit the team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. 
+From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. I am willing to take initiative and do extra work if I know it will benefit the team.
 
 ## Projects
 
