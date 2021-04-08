@@ -39,23 +39,11 @@ During my time at makers I was able to learn new concepts and frameworks rapidly
 
 #### Mathematical Ability
 
+I have always found mathematics comes easily to me. My greatest achievement was winning a medal in the Maclaurin round of the Intermediate Mathematical Olympiad, as one of the top 100 candidates in the country. 
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Teamwork 
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am willing to take initiative and do extra work if I know it will benefit the team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. 
 
 ## Projects
 
@@ -106,7 +94,6 @@ _Administrative Assistant in the Claims Department_
 - A levels: Maths (A*), Further Maths (A'*)
 - Cambridge Pre-Us: French (M1), Economics (P1), _studied German and Art for one year_
 - GCSEs: Eight A*s and one A
-- Intermediate Mathematical Olympiad: Won a medal for my score in the Maclaurin round, as one of the top 100 candidates countrywide.
 
 ## Other Interests and Skills
 
