@@ -31,8 +31,8 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. | React Native, JavaScript, Expo, Jest |
-| **[Spacebook](https://github.com/bateso88/acebook-sholk)** | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS              |
-| **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project to mimic a bank account. | Ruby, RSpec          |
+| **[Spacebook](https://github.com/bateso88/acebook-sholk)** (Deployed [here](https://fierce-plains-18412.herokuapp.com/) | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
+| **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. | Ruby, RSpec          |
 
 ## Experience
 
@@ -73,10 +73,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (January 2021 to April 2021)
 
+- Full-stack
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile, Pair programming
+- Ruby, Rails, JavaScript, React Native, HTML, CSS, SQL
+- CI/CD
+- RSpec, Jasmine, Jest
 
 #### CII Qualifications (August 2016 to present)
 - Cert CII and Dip CII completed; 4 out of 5 ACII modules completed.
