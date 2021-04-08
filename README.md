@@ -26,6 +26,37 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.  -->
 
+## Skills
+
+
+#### Attention to Detail
+
+In my time in insurance, consolidating large amounts of data was a role I performed well. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. My proudest moment was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.     
+
+#### Fast Learner
+
+During my time at makers I was able to learn new concepts and frameworks rapidly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
+
+#### Mathematical Ability
+
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -49,25 +80,6 @@ _Underwriting Assistant in Specialty Programmes_
 _Administrative Assistant in the Claims Department_
 - Claims bordereaux analysis and processing.
 - Data reconciliation.
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
