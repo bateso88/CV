@@ -1,4 +1,4 @@
-<h1 align="center">Salar Ghotaslo CV</h1>
+<h1 align="center">Oliver Bates</h1>
 
 <div align="center">
 
