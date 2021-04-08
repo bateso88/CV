@@ -8,11 +8,11 @@
 [Experience ](#experience) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Hobbies ](#otherinterests,hobbies&skills)
+[Hobbies ](#other-interests,-hobbies-&-skills)
 
 </div>
 
-### About me 
+## About me 
 
 I am junior developer who has recently graduated from Makers Academy. I'm searching for my first role as a developer. 
 
