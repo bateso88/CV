@@ -4,11 +4,12 @@
 
 [My LinkedIn](https://www.linkedin.com/in/oliver-bates-89256812a/)
 
+[About me ](#about-me) |
 [Projects ](#projects) |
 [Experience ](#experience) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Hobbies ](#other-interests,-hobbies-&-skills)
+[Hobbies ](#other-interests-hobbies-&-skills)
 
 </div>
 
