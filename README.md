@@ -8,7 +8,7 @@
 [Experience ](#experience) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Hobbies ](#hobbies)
+[Hobbies ](#other)
 
 </div>
 
