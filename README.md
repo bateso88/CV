@@ -15,7 +15,7 @@
 
 ## About me 
 
-I am junior developer who has recently graduated from Makers Academy. I'm searching for my first role as a developer. 
+I am junior developer who has recently graduated from [Makers Academy](https://makers.tech). I'm searching for my first role as a developer. 
 
 After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. The marketplace is well-known for its antiquated technologies and it was there that I really learned of the importance of good tech. 
 
@@ -30,9 +30,9 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. | React Native, JavaScript, Expo, Jest |
-| **Spacebook** | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS              |
-| **Bank Account** | A simple solo project to mimic a bank account. | Ruby, RSpec          |
+| **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. | React Native, JavaScript, Expo, Jest |
+| **[Spacebook](https://github.com/bateso88/acebook-sholk)** | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS              |
+| **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project to mimic a bank account. | Ruby, RSpec          |
 
 ## Experience
 
