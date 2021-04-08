@@ -9,7 +9,7 @@
 [Experience ](#experience) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Hobbies ](#other-interests-hobbies-&-skills)
+[Interests ](#other-interests-and-skills)
 
 </div>
 
@@ -94,7 +94,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - GCSEs: Eight A*s and one A
 - Intermediate Mathematical Olympiad: Won a medal for my score in the Maclaurin round, as one of the top 100 candidates countrywide.
 
-## Other Interests, Hobbies & Skills
+## Other Interests and Skills
 
 - Good French, intermediate German and basic Spanish.
 - Cycling/Long-Distance Sports - I've completed various long-distance rides, including: London-Paris, Amsterdam-Dunkerque, Bilbao-Barcelona-Le Havre and numerous races. Kayaked the length of the Thames. Competed in the Blenheim Triathlon, the London marathon and the Pyongyang half marathon.
