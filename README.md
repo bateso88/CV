@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[My LinkedIn](https://www.linkedin.com/in/oliver-bates-89256812a/)
+[LinkedIn](https://www.linkedin.com/in/oliver-bates-89256812a/)
+
+bateso@hotmail.co.uk
 
 [About me ](#about-me) |
 [Projects ](#projects) |
