@@ -31,7 +31,7 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. | React Native, JavaScript, Expo, Jest |
-| **[Spacebook](https://github.com/bateso88/acebook-sholk)** (Deployed [here](https://fierce-plains-18412.herokuapp.com/) | A webapp clone of Facebook. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
+| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook. (Deployed [here](https://fierce-plains-18412.herokuapp.com/)) | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
 | **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. | Ruby, RSpec          |
 
 ## Experience
