@@ -1,4 +1,16 @@
-## Oliver Bates
+<h1 align="center">Salar Ghotaslo CV</h1>
+
+<div align="center">
+
+[My LinkedIn](https://www.linkedin.com/in/oliver-bates-89256812a/)
+
+[Projects ](#projects) |
+[Experience ](#experience) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Hobbies ](#hobbies)
+
+</div>
 
 ### About me 
 
