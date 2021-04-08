@@ -85,8 +85,7 @@ _Administrative Assistant in the Claims Department_
 
 #### University of Bristol (October 2012 to June 2015)
 
-- BEng Engineering Mathematics
-- 2:1
+- BEng Engineering Mathematics (2:1)
 - Carried out 8 group projects - producing solutions to real-life engineering problems through data analysis and mathematical modelling.
 - Studied C, C++, MATLAB, HTML and CSS.
 
