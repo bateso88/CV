@@ -15,13 +15,15 @@
 
 ## About me 
 
-I am junior developer who has recently graduated from [Makers Academy](https://makers.tech). I'm searching for my first role as a developer. 
+I am junior developer who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning as much as possible with complex problem-solving and continued exposure to new technologies. 
 
-After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. The marketplace is well-known for its antiquated technologies and it was there that I really learned of the importance of good tech. 
+Previously I worked in insurance, in the Lloyd's of London market for 4 years after studying Engineering Mathematics at Bristol University.
+
+<!-- After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. The marketplace is well-known for its antiquated technologies and it was there that I really learned of the importance of good tech. 
 
 Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to consider a career change. I investigated the growing Insurtech industry and attended several conferences and lectures. I came to the conclusion that I would like to be a part of the tech industry to help modernise and improve other industries.
 
-For the first 3 months of 2021 I was a student at Makers Academy. Here I became fully certain that I'd made the right decision to change career. The three months were challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning as much as possible with complex problem-solving and continued exposure to new technologies. 
+For the first 3 months of 2021 I was a student at Makers Academy. Here I became fully certain that I'd made the right decision to change career. The three months were challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning as much as possible with complex problem-solving and continued exposure to new technologies.  -->
 
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.  -->
@@ -35,7 +37,7 @@ In my time in insurance, consolidating large amounts of data was a role I perfor
 
 #### Fast Learner
 
-During my time at makers I was able to learn new concepts and frameworks rapidly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
+During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
 
 #### Mathematical Ability
 
