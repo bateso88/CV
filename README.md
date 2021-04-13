@@ -21,9 +21,9 @@ I am junior developer focussing on the back-end who has recently graduated from 
 
 Previously I worked in insurance, in the Lloyd's of London market for 4 years. Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to consider a career change. 
 
-I investigated the growing Insurtech industry and attended several conferences and lectures. I realised that I would like to be a part of the tech industry to help modernise and improve other industries.
+I investigated the growing Insurtech industry and attended several conferences and lectures. I came to the conclusion that I would like to be a part of the tech industry to help modernise and improve other industries. Makers Academy has now really cemented in my mind the fact that I have made the right decision.
 
-I am fast-learning, personable, mathematically-talented and have an eye for detail. 
+I am fast-learning, personable, mathematically-talented and have an eye for detail. I'm now eager to start coding professionally!
 
 <!-- After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. The marketplace is well-known for its antiquated technologies and it was there that I really learned of the importance of good tech. 
 
