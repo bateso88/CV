@@ -68,16 +68,16 @@ From my final group projects at university to my time working in insurance, I ha
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. I played an integral part in getting the app to display the phone's step count and linking the app to local phone storage to ensure data persisted. I had a considerable role in much of the app's logic and the app's design/layout solution. I learnt how to use React Native and create a phone app. | React Native, JavaScript, Expo, Jest, Express |
-| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook (see [here](https://fierce-plains-18412.herokuapp.com/)). I was responsible for setting up the CI/CD and most of the front-end styling. I played a major role in making the 'like' button update asynchronously and many other areas of complex logic. I learnt how to set up a Rails project from scratch. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
-| **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. This project demonstrates OOP, the SRP, DDD, dependency injection, thorough testing and legible, tidy code.  | Ruby, RSpec          |
+| **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. I played an integral part in getting the app to display the phone's step count and linking the app to local phone storage to ensure data persisted. I had a considerable role in much of the app's logic and the app's design/layout solution. In two weeks I learnt how to use React Native and create a phone app. | React Native, JavaScript, Expo, Jest, Express |
+| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook (see [here](https://fierce-plains-18412.herokuapp.com/)). I was responsible for setting up the CI/CD and most of the front-end styling. I played a major role in making the 'like' button update asynchronously and many other areas of complex logic. Making this app taught me how to set up a Rails project from scratch. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
+| **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. This project demonstrates OOP, the SRP, DDD, dependency injection, thorough testing and clean, legible, tidy code.  | Ruby, RSpec          |
 
 ## Experience
 
 **Ark Syndicate Management Ltd** (March 2016 to January 2020)  
 _Underwriting Assistant in Specialty Programmes_
 
-- Portfolio management of a £40m book of business. Analysing large amounts of data to identify larger issues.
+- Portfolio management of a £40m book of business. Analysing large amounts of data to identify broader issues.
 - Analysing trends and patterns in individual, distressed binders, producing reports to illustrate these, and making recommendations to improve profitability.
 - Automating reports and pricing models to vastly improve efficiency across the team.
 - Attending extra-curricular courses and lectures to gain knowledge of the industry (Actuarial course at Lloyd’s, WSIA Surplus Lines course in Atlanta, Insurtech conferences).
