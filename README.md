@@ -59,7 +59,7 @@ From my final group projects at university to my time working in insurance, I ha
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. I played an integral part in getting the app to display the phone's step count and linking the app to local phone storage to ensure data persisted each time a user opens the app. I had a considerable role in much of the app's logic and the app's design layout solution. | React Native, JavaScript, Expo, Jest |
-| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook (deployed [here](https://fierce-plains-18412.herokuapp.com/)). I was responsible for setting up the CI/CD and most of the front-end styling. I played a major role in making the 'like' button update asynchronously and many other areas of complex logic. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
+| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook (see [here](https://fierce-plains-18412.herokuapp.com/)). I was responsible for setting up the CI/CD and most of the front-end styling. I played a major role in making the 'like' button update asynchronously and many other areas of complex logic. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
 | **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. | Ruby, RSpec          |
 
 ## Experience
