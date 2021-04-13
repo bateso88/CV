@@ -17,9 +17,11 @@ bateso@hotmail.co.uk
 
 ## About me 
 
-I am junior developer who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning through complex problem-solving and continued exposure to new technologies. 
+I am junior developer focussing on back-end who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning through complex problem-solving and continued exposure to new technologies. 
 
-Previously I worked in insurance, in the Lloyd's of London market for 4 years after studying Engineering Mathematics at Bristol University.
+Previously I worked in insurance, in the Lloyd's of London market for 4 years. Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to consider a career change. I investigated the growing Insurtech industry and attended several conferences and lectures. I came to the conclusion that I would like to be a part of the tech industry to help modernise and improve other industries.
+
+I am fast-learning, personable, mathematically-talented and have an eye for detail. 
 
 <!-- After graduating from Bristol University with a degree in Engineering Mathematics, I spent four years working in insurance as an underwriter in the Lloyd's of London market. The marketplace is well-known for its antiquated technologies and it was there that I really learned of the importance of good tech. 
 
@@ -58,7 +60,7 @@ From my final group projects at university to my time working in insurance, I ha
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. I played an integral part in getting the app to display the phone's step count and linking the app to local phone storage to ensure data persisted. I had a considerable role in much of the app's logic and the app's design layout solution. I learnt how to use React Native and create a phone app. | React Native, JavaScript, Expo, Jest, Express |
+| **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. I played an integral part in getting the app to display the phone's step count and linking the app to local phone storage to ensure data persisted. I had a considerable role in much of the app's logic and the app's design/layout solution. I learnt how to use React Native and create a phone app. | React Native, JavaScript, Expo, Jest, Express |
 | **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook (see [here](https://fierce-plains-18412.herokuapp.com/)). I was responsible for setting up the CI/CD and most of the front-end styling. I played a major role in making the 'like' button update asynchronously and many other areas of complex logic. I learnt how to set up a Rails project from scratch. | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
 | **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. This project demonstrates OOP, the SRP, DDD, dependency injection, thorough testing and legible, tidy code.  | Ruby, RSpec          |
 
