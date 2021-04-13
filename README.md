@@ -35,11 +35,11 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 #### Attention to Detail
 
-In my time in insurance, consolidating large amounts of data was a role I performed well. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. My proudest moment was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.     
+In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. My proudest moment was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.     
 
-#### Fast Learner
+#### Self-led Learner
 
-During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
+((((SOMETHING ABOUT TEACHING MYSELF AUTOMATION IN INSURANCE/CREATING THE VAN)))) During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
 
 #### Mathematical Ability
 
@@ -47,6 +47,7 @@ I have always found mathematics comes easily to me. My greatest achievement was 
 
 #### Teamwork 
 
+(((((NEEDS AN EXAMPLE)))))
 From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. I am willing to take initiative and do extra work if I know it will benefit the team.
 
 ## Projects
@@ -54,7 +55,7 @@ From my final group projects at university to my time working in insurance, I ha
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Guilt trip / Sloth](https://github.com/bateso88/Guilt_Trip)**            | A phone app that gamifies the pedometer to encourage users to reach a step-count target. | React Native, JavaScript, Expo, Jest |
-| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook. (Deployed [here](https://fierce-plains-18412.herokuapp.com/)) | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
+| **[Spacebook](https://github.com/bateso88/acebook-sholk)**  | A webapp clone of Facebook (deployed [here](https://fierce-plains-18412.herokuapp.com/)) | Ruby, Rails, RSpec, Capybara, JavaScript, HTML, CSS, Travis, Heroku               |
 | **[Bank account](https://github.com/bateso88/bank-tech-test)** | A simple solo project that models a bank account. | Ruby, RSpec          |
 
 ## Experience
