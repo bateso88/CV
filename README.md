@@ -37,19 +37,23 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 #### Attention to Detail
 
-In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. My proudest moment was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.     
+In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.  
 
 #### Self-led Learner
 
 With no real experience in DIY, I taught myself how to convert a van into a comfortable, tiny home with solar-powered electical, heating and water systems, in just 2 months. 
 
-For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time spent on manually preparing reports, as it had been done for years beforehand. 
+For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time otherwise spent on manually preparing reports, as it had been done for years beforehand. 
+
+During my time at Makers this skill enabled me to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter.
  
 <!-- During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. -->
 
 #### Mathematical Ability
 
 I have always found mathematics comes easily to me. My greatest achievement was winning a medal in the Maclaurin round of the Intermediate Mathematical Olympiad, as one of the top 100 candidates in the country. 
+
+I have found my proficiency in maths is incredibly helpful when programming more complex logic. 
 
 <!-- #### Teamwork (MAYBE REPLACE WITH PROBLEM SOLVING??)
 
