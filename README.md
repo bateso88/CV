@@ -39,7 +39,11 @@ In my time in insurance, consolidating large amounts of data came naturally. I w
 
 #### Self-led Learner
 
-((((SOMETHING ABOUT TEACHING MYSELF AUTOMATION IN INSURANCE/CREATING THE VAN)))) During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
+With no experience in DIY, I taught myself how to convert a van into a comfortable, tiny home with solar-powered electical and water systems, in just 2 months.
+
+ ((((SOMETHING ABOUT TEACHING MYSELF AUTOMATION IN INSURANCE)))) 
+ 
+ During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
 
 #### Mathematical Ability
 
@@ -95,7 +99,7 @@ _Administrative Assistant in the Claims Department_
 - Studied C, C++, MATLAB, HTML and CSS.
 
 #### Winchester College Qualifications (September 2006 to June 2011)
-- A levels: Maths (A*), Further Maths (A'*)
+- A levels: Maths (A*), Further Maths (A*)
 - Cambridge Pre-Us: French (M1), Economics (P1), _studied German and Art for one year_
 - GCSEs: Eight A*s and one A
 
