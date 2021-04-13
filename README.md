@@ -45,7 +45,7 @@ With no experience in DIY, I taught myself how to convert a van into a comfortab
 
 For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time spent on manually preparing reports, as it had been done for years beforehand. 
  
-During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript.
+<!-- During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. -->
 
 #### Mathematical Ability
 
