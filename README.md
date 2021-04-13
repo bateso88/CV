@@ -89,6 +89,7 @@ _Administrative Assistant in the Claims Department_
 - Ruby, Rails, JavaScript, React Native, HTML, CSS, SQL
 - CI/CD
 - RSpec, Jasmine, Jest
+- EI, empathy, teamwork, self-awareness and self-regulation.
 
 #### CII Qualifications (August 2016 to present)
 - Cert CII and Dip CII completed; 4 out of 5 ACII modules completed.
