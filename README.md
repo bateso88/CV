@@ -73,7 +73,7 @@ _Underwriting Assistant in Specialty Programmes_
 - Attending extra-curricular courses and lectures to gain knowledge of the industry (Actuarial course at Lloyd’s, WSIA Surplus Lines course in Atlanta, Insurtech conferences).
 - Travelling abroad to meet with clients and attend conferences, often unaccompanied.
 
-**Ark Syndicate Management Ltd** (Macrh 2016 to August 2020)  
+**Ark Syndicate Management Ltd** (March 2016 to August 2016)  
 _Administrative Assistant in the Claims Department_
 - Claims bordereaux analysis and processing.
 - Data reconciliation.
