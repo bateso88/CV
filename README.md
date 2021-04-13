@@ -41,11 +41,11 @@ In my time in insurance, consolidating large amounts of data came naturally. I w
 
 #### Self-led Learner
 
-With no experience in DIY, I taught myself how to convert a van into a comfortable, tiny home with solar-powered electical and water systems, in just 2 months.
+With no experience in DIY, I taught myself how to convert a van into a comfortable, tiny home with solar-powered electical and water systems, in just 2 months. 
 
- ((((SOMETHING ABOUT TEACHING MYSELF AUTOMATION IN INSURANCE)))) 
+For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time spent on manually preparing reports, as it had been done for years beforehand. 
  
- During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
+During my time at makers I was able to learn new concepts, frameworks and languages quickly and produce high-quality code shortly thereafter. I produced a logically complex app that modelled a [bowling scorecard](https://github.com/bateso88/bowling-challenge) just 5 days after first coming across JavaScript. For my final project (see 'Sloth' below), I learned React Native and produced a high-quality phone app in just two weeks. 
 
 #### Mathematical Ability
 
@@ -71,7 +71,7 @@ _Underwriting Assistant in Specialty Programmes_
 
 - Portfolio management of a £40m book of business. Analysing large amounts of data to identify larger issues.
 - Analysing trends and patterns in individual, distressed binders, producing reports to illustrate these, and making recommendations to improve profitability.
-- Taking the initiative to automate reports and pricing models to vastly improve efficiency across the team.
+- Automating reports and pricing models to vastly improve efficiency across the team.
 - Attending extra-curricular courses and lectures to gain knowledge of the industry (Actuarial course at Lloyd’s, WSIA Surplus Lines course in Atlanta, Insurtech conferences).
 - Travelling abroad to meet with clients and attend conferences, often unaccompanied.
 - _I was originally an Admin Assistant in the Claims Department until August 2016. My roles there included data reconciliation and claims bordereaux analysis and processing._
