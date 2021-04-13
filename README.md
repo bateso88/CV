@@ -19,7 +19,9 @@ bateso@hotmail.co.uk
 
 I am junior developer focussing on the back-end who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning through complex problem-solving and continued exposure to new technologies. 
 
-Previously I worked in insurance, in the Lloyd's of London market for 4 years. Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to consider a career change. I investigated the growing Insurtech industry and attended several conferences and lectures. I came to the conclusion that I would like to be a part of the tech industry to help modernise and improve other industries.
+Previously I worked in insurance, in the Lloyd's of London market for 4 years. Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to consider a career change. 
+
+I investigated the growing Insurtech industry and attended several conferences and lectures. I realised that I would like to be a part of the tech industry to help modernise and improve other industries.
 
 I am fast-learning, personable, mathematically-talented and have an eye for detail. 
 
@@ -37,7 +39,9 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 #### Attention to Detail
 
-In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.  
+In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. 
+
+This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.  
 
 #### Self-led Learner
 
