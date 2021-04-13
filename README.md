@@ -49,7 +49,7 @@ With no experience in DIY, I taught myself how to convert a van into a comfortab
 
 I have always found mathematics comes easily to me. My greatest achievement was winning a medal in the Maclaurin round of the Intermediate Mathematical Olympiad, as one of the top 100 candidates in the country. 
 
-#### Teamwork 
+#### Teamwork (MAYBE REPLACE WITH PROBLEM SOLVING??)
 
 (((((NEEDS AN EXAMPLE)))))
 From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. I am willing to take initiative and do extra work if I know it will benefit the team.
