@@ -64,7 +64,7 @@ From my final group projects at university to my time working in insurance, I ha
 
 ## Experience
 
-**Ark Syndicate Management Ltd** (August 2016 to January 2020)  
+**Ark Syndicate Management Ltd** (March 2016 to January 2020)  
 _Underwriting Assistant in Specialty Programmes_
 
 - Portfolio management of a £40m book of business. Analysing large amounts of data to identify larger issues.
@@ -72,11 +72,12 @@ _Underwriting Assistant in Specialty Programmes_
 - Taking the initiative to automate reports and pricing models to vastly improve efficiency across the team.
 - Attending extra-curricular courses and lectures to gain knowledge of the industry (Actuarial course at Lloyd’s, WSIA Surplus Lines course in Atlanta, Insurtech conferences).
 - Travelling abroad to meet with clients and attend conferences, often unaccompanied.
+- _I was originally an Admin Assistant in the Claims Department until August 2016. My roles there included claims bordereaux analysis and processing and data reconciliation._
 
-**Ark Syndicate Management Ltd** (March 2016 to August 2016)  
+<!-- **Ark Syndicate Management Ltd** (March 2016 to August 2016)  
 _Administrative Assistant in the Claims Department_
 - Claims bordereaux analysis and processing.
-- Data reconciliation.
+- Data reconciliation. -->
 
 ## Education
 
