@@ -72,7 +72,7 @@ _Underwriting Assistant in Specialty Programmes_
 - Taking the initiative to automate reports and pricing models to vastly improve efficiency across the team.
 - Attending extra-curricular courses and lectures to gain knowledge of the industry (Actuarial course at Lloyd’s, WSIA Surplus Lines course in Atlanta, Insurtech conferences).
 - Travelling abroad to meet with clients and attend conferences, often unaccompanied.
-- _I was originally an Admin Assistant in the Claims Department until August 2016. My roles there included claims bordereaux analysis and processing and data reconciliation._
+- _I was originally an Admin Assistant in the Claims Department until August 2016. My roles there included data reconciliation and claims bordereaux analysis and processing._
 
 <!-- **Ark Syndicate Management Ltd** (March 2016 to August 2016)  
 _Administrative Assistant in the Claims Department_
