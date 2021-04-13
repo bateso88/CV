@@ -17,7 +17,7 @@ bateso@hotmail.co.uk
 
 ## About me 
 
-I am junior developer focussing on back-end who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning through complex problem-solving and continued exposure to new technologies. 
+I am junior developer focussing on the back-end who has recently graduated from [Makers Academy](https://makers.tech). I found the three months there challenging, exciting and immensely rewarding. I am now looking for a role that allows me to further expand my learning through complex problem-solving and continued exposure to new technologies. 
 
 Previously I worked in insurance, in the Lloyd's of London market for 4 years. Automation was an essential skill I taught myself in order to improve accuracies in large amounts of data and save time otherwise spent on needless manual tasks. The satisfaction of seeing the vast improvements that my influence had on my team's work led me to consider a career change. I investigated the growing Insurtech industry and attended several conferences and lectures. I came to the conclusion that I would like to be a part of the tech industry to help modernise and improve other industries.
 
@@ -41,7 +41,7 @@ In my time in insurance, consolidating large amounts of data came naturally. I w
 
 #### Self-led Learner
 
-With no experience in DIY, I taught myself how to convert a van into a comfortable, tiny home with solar-powered electical and water systems, in just 2 months. 
+With no real experience in DIY, I taught myself how to convert a van into a comfortable, tiny home with solar-powered electical, heating and water systems, in just 2 months. 
 
 For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time spent on manually preparing reports, as it had been done for years beforehand. 
  
@@ -51,10 +51,10 @@ For my previous job I took the initiative to learn how to create complex, dynami
 
 I have always found mathematics comes easily to me. My greatest achievement was winning a medal in the Maclaurin round of the Intermediate Mathematical Olympiad, as one of the top 100 candidates in the country. 
 
-#### Teamwork (MAYBE REPLACE WITH PROBLEM SOLVING??)
+<!-- #### Teamwork (MAYBE REPLACE WITH PROBLEM SOLVING??)
 
 (((((NEEDS AN EXAMPLE)))))
-From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. I am willing to take initiative and do extra work if I know it will benefit the team.
+From my final group projects at university to my time working in insurance, I have always found myself well-adjusted to working in a team. I am equally happy listening to other members' ideas and trying to get my point across, so long as the team succeeds. I am willing to take initiative and do extra work if I know it will benefit the team. -->
 
 ## Projects
 
