@@ -1,3 +1,11 @@
+<div align="center">
+
+![For hire](https://img.shields.io/badge/Available_for_hire-Immediately-brightgreen)
+![Last updated](https://img.shields.io/badge/Last_updated-April_2021-FCCA46)
+![Contactable](https://img.shields.io/badge/Contactable-Feel_free-17BEBB)
+
+</div.>
+
 <h1 align="center">Oliver Bates</h1>
 
 <div align="center">
