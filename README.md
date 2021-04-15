@@ -67,6 +67,15 @@ I have always found mathematics comes easily to me. My greatest achievement was 
 
 I have found my proficiency in maths is incredibly helpful when programming more complex logic. 
 
+#### Teamwork 
+
+I have a good amount of experience at working in a team. My final projects at university, my time in insurance and my time at Makers all required me to develop my teamworking skills. 
+
+During my time in insurance I often prepared reports without being instructed. I would share my findings with the team and shed light on previously undiscovered issues. This work often hugely benefitted the team. 
+
+At Makers I found I found myself just as comfortable listening to others as I was taking the lead and providing a clear direction for the team. I learnt the importance of frequent stand-ups and retros and the essentiality of clear communication.
+ 
+
 <!-- #### Teamwork (MAYBE REPLACE WITH PROBLEM SOLVING??)
 
 (((((NEEDS AN EXAMPLE)))))
