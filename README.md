@@ -105,7 +105,7 @@ _Administrative Assistant in the Claims Department_
 - OOP, TDD, MVC, DDD
 - Agile, Pair programming
 - Ruby, Rails, JavaScript, React Native, SQL, HTML, CSS
-- CI/CD
+- Git, Github, CI/CD
 - RSpec, Jasmine, Jest
 - EI, empathy, teamwork, self-awareness and self-regulation.
 
