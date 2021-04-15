@@ -134,6 +134,6 @@ _Administrative Assistant in the Claims Department_
 
 ## Other Interests and Skills
 
-- **Languages** - Good French, intermediate German and basic Spanish.
 - **Cycling/Long-Distance Sports** - I've completed various long-distance rides, including: London-Paris, Amsterdam-Dunkerque, a return trip to Barcelona and numerous races. Kayaked the length of the Thames. Competed in the Blenheim Triathlon, the London marathon and the Pyongyang half marathon.
 - **Travel/Adventure** - Worked in a hotel in Courchevel for 5 months for the ski season. Volunteered in a Romanian orphanage. Worked in a bar in La Paz. Converted a van into a campervan to travel Europe.
+- **Languages** - Intermediate French and German, basic Spanish.
