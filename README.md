@@ -53,7 +53,7 @@ This skill is one that I have found extremely useful in learning to code, partic
 
 #### Self-led Learner
 
-With no real experience in DIY, I taught myself how to convert a [van](https://www.instagram.com/tunathevan/) (scroll down for photos of construction) into a comfortable 'tiny home' with solar-powered electical, heating and water systems, in just 2 months. 
+With no real experience in DIY, I taught myself how to convert a [van](https://www.instagram.com/tunathevan/) (scroll down for photos of construction) into a comfortable "tiny home" with solar-powered electical, heating and water systems, in just 2 months. 
 
 For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time otherwise spent on manually preparing reports, as it had been done for years beforehand. 
 
