@@ -47,13 +47,13 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 #### Attention to Detail
 
-In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was identifying a £700,000 shortfall that various managers had previously missed, saving the company that amount. 
+During my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was identifying a £700,000 shortfall that various managers had previously missed, saving the company that amount. 
 
 This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.  
 
 #### Self-led Learner
 
-With no real experience in DIY, I taught myself how to convert a [van](https://www.instagram.com/tunathevan/) (scroll down for photos of construction) into a comfortable "tiny home" with solar-powered electical, heating and water systems, in just 2 months. 
+With no real experience in DIY, I taught myself how to convert a [van](https://www.instagram.com/tunathevan/) (scroll down for photos of construction) into a comfortable "tiny home" with solar-powered electrical, heating and water systems, in just 2 months. 
 
 For my previous job I took the initiative to learn how to create complex, dynamic spreadsheets that connected to the company's database and updated automatically. This saved huge amounts of time otherwise spent on manually preparing reports, as it had been done for years beforehand. 
 
