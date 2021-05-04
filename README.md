@@ -47,7 +47,7 @@ For the first 3 months of 2021 I was a student at Makers Academy. Here I became 
 
 #### Attention to Detail
 
-In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was when I identified a £700,000 shortfall that various managers had previously missed, saving the company that amount. 
+In my time in insurance, consolidating large amounts of data came naturally. I would check the accuracy of thousands of payments and proof-read vast spreadsheets. One of my proudest moments was identifying a £700,000 shortfall that various managers had previously missed, saving the company that amount. 
 
 This skill is one that I have found extremely useful in learning to code, particularly in rapidly debugging issues.  
 
